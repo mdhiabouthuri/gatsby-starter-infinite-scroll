@@ -25,7 +25,7 @@
     "react-dom": "^16.8.3",
     "react-helmet": "^5.2.0",
     "react-icons": "^3.4.0",
-    "styled-jsx": "^3.2.1",
+    "styled-jsx": "^5.1.0",
     "typeface-open-sans": "0.0.54"
   },
   "devDependencies": {
